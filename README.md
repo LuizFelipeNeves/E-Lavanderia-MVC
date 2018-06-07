@@ -1,19 +1,8 @@
 ## Projeto E-Lavanderia MVC
 Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, Integrada ao PayPal.
 
-**Status dos Pedidos**:
-  - [X] Status dos Pedidos,
-  - [X] Novo,
-  - [x] Cancelado,
-  - [x] Rembolso,
-  - [x] Aguardando Pagamento,
-  - [x] Pagamento Concluído,
-  - [x] Aguardando recolhimento dos Itens,
-  - [x] Em processo de Lavagem,
-  - [x] Em processo de Secagem,
-  - [x] Em Processo de Passagem,
-  - [x] Aguardando retirada do Cliente,
-  - [x] Atendimeto concluído.
+
+ <img width="960" height="480" src="https://raw.githubusercontent.com/LuizFelipeNeves/E-Lavanderia-MVC/master/src/imagens/1.PNG">
 
 ## Recursos
  * Linguagem : PHP usando Code Igniter Framework Version 3.x (https://www.codeigniter.com/download)
@@ -47,9 +36,5 @@ Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, I
  * [ ] Editar Perfil -> Login e Senha.
  * [ ] Inserir Usuários, Atualizar Usuários, Deletar Usuários.
  * [ ] Status de Pagamento.
- 
- 
-  ## Imagens
- <img width="953" height="468.5" src="https://raw.githubusercontent.com/LuizFelipeNeves/E-Lavanderia-MVC/master/src/imagens/1.PNG">
  
  
