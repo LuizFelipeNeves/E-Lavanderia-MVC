@@ -3,7 +3,7 @@ Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, I
 
 [Apresentação em PDF](../master/src/outros/manual.pdf)
 
- <img width="960" height="480" src="https://raw.githubusercontent.com/LuizFelipeNeves/E-Lavanderia-MVC/master/src/imagens/1.PNG">
+ <img width="960" height="480" src="../master/src/imagens/1.PNG">
 
 ## Recursos
  * Linguagem : PHP usando Code Igniter Framework Version 3.x (https://www.codeigniter.com/download)
