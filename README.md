@@ -1,6 +1,7 @@
 ## Projeto E-Lavanderia MVC
-```Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, Integrada ao PayPal.```
-[Conheça mais do Projeto clicando aqui.](https://www.google.com)
+Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, Integrada ao PayPal.
+
+<br>[Conheça mais do Projeto clicando aqui.](https://www.google.com)
 
  <img width="960" height="480" src="https://raw.githubusercontent.com/LuizFelipeNeves/E-Lavanderia-MVC/master/src/imagens/1.PNG">
 
