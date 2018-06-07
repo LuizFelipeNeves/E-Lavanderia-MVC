@@ -7,13 +7,13 @@ Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, I
   - [x] Cancelado,
   - [x] Rembolso,
   - [x] Aguardando Pagamento,
-  - [x] Pagamento Conclu�do,
+  - [x] Pagamento Concluído,
   - [x] Aguardando recolhimento dos Itens,
   - [x] Em processo de Lavagem,
   - [x] Em processo de Secagem,
   - [x] Em Processo de Passagem,
   - [x] Aguardando retirada do Cliente,
-  - [x] Atendimeto conclu�do.
+  - [x] Atendimeto concluído.
 
 ## Recursos
  * Linguagem : PHP usando Code Igniter Framework Version 3.x (https://www.codeigniter.com/download)
@@ -25,27 +25,28 @@ Este projeto tem como finalidade o gerenciamento de pedidos de uma Lavanderia, I
  * Bootstrap: (https://getbootstrap.com/)
  * DataTables (Table plug-in for jQuery) (https://datatables.net)
 
-## Conclu�do
- * [x] Configura��o do Ambiente. Setando url de base, autoload, rotas.
- * [x] Cria��o do model e database.
- * [x] Cria��o P�gina de In�cio. (View e Controller)
- * [x] Cria��o Listar Pedidos. (View e Controller)
- * [x] Tradu��o Datatables. (Listar Pedidos)
- * [x] Download e Impress�o de Pedidos em Json. (Listar Pedidos)
+## Concluído
+ * [x] Configuração do Ambiente. Setando url de base, autoload, rotas.
+ * [x] Criação do model e database.
+ * [x] Criação Página de Início. (View e Controller)
+ * [x] Criação Listar Pedidos. (View e Controller)
+ * [x] Tradução Datatables. (Listar Pedidos)
+ * [x] Download e Impressão de Pedidos em Json. (Listar Pedidos)
  * [x] Atualizar Status de Pedidos. (Listar Pedidos)
- * [x] Cria��o Inserir Pedidos. (View e Controller)
- * [x] Cria��o Atualizar Pedidos. (View e Controller)
+ * [x] Criação Inserir Pedidos. (View e Controller)
+ * [x] Criação Atualizar Pedidos. (View e Controller)
 
  ### Em desemvolvimento
  * [ ]
 	
- ### Vers�es Futuras.
+ ### Versões Futuras.
  * [ ] Login (View, Controller, Model).
  * [ ] Logout.
- * [ ] Integra��o com Paypal.
- * [ ] Impress�o e Download em PDF, recebendo os dados via Json.
+ * [ ] Integração com Paypal.
+ * [ ] Impressão e Download em PDF, recebendo os dados via Json.
  * [ ] Editar Perfil -> Login e Senha.
- * [ ] Inserir Usu�rios, Atualizar Usu�rios, Deletar Usu�rios.
+ * [ ] Inserir Usuários, Atualizar Usuários, Deletar Usuários.
+ * [ ] Status de Pagamento.
  
  
   ## Imagens
